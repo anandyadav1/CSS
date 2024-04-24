@@ -1,0 +1,19 @@
+ div{
+    height: 150px;
+    width: 150px;
+    background-color: blue;
+    border: 2px solid black;
+    display: inline-block;
+    background-image: url("WhatsApp Image 2024-04-19 at 15.59.27_bfc95018.jpg");
+    background-size: cover;
+    background-size: contain;
+    /* background-size: auto; */
+} 
+body{
+    background-image: url("cat_photo.jpg");
+    background-size: cover;
+    /* background-size: contain; */
+
+    /* background-image: url("WhatsApp Image 2024-04-19 at 15.59.27_bfc95018.jpg"); */
+}
+

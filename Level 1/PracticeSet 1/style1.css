@@ -1,0 +1,18 @@
+/* this is a Id Selector */
+#box{
+    background-color: blue;
+    /* color: white; */
+}
+
+/* this is class selector */
+/* .heading{
+    color: red;
+} */
+
+h1,h2,h3{
+    color: red;
+}
+
+button{
+    background-color: green;
+}

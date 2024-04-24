@@ -1,0 +1,24 @@
+div{
+    width: 400px;
+    height: 400px;
+    background-color: pink;
+}
+    @media(width:600px){
+        div{
+            background-color: red;
+        }
+
+    }
+    @media(max-width:600px){
+        div{
+            background-color: green;
+        }
+
+    }
+    @media(min-width:400px) and (max-width:800px){
+        div{
+
+            background-color:blue;
+        }
+
+    }

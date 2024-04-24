@@ -1,0 +1,15 @@
+/* universal Selector */
+*{
+    color:pink;
+
+}
+
+#headingOne{
+    color: rgb(246, 255, 0);
+}
+#headingTwo{
+    color: rgb(255, 115, 0);
+}
+#headingThree{
+    color: rgb(0, 208, 255);
+}

@@ -1,0 +1,38 @@
+p{
+    text-align: right;
+}
+p{
+    text-align: center;
+    text-decoration: underline;
+}
+#heading1{
+    text-align: center;
+    text-decoration: underline;
+}
+#heading2{
+    text-align: left;
+    text-decoration: overline;
+}
+#heading3{
+    text-align: right;
+    text-decoration: line-through;
+}
+a{
+    text-decoration: none;
+}
+
+/* Font weight */
+#heading4{
+    font-weight: normal;
+}
+#heading5{
+    font-weight: bold;
+}
+#heading6{
+    font-weight: bolder;
+}
+#heading7{
+font-weight: lighter
+}
+
+

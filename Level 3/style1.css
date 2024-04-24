@@ -1,0 +1,34 @@
+
+#div1{
+    background-color:red;
+}
+
+#div2{
+    background-color: blue;
+    /* display: none; */
+    /* visibility: hidden; */
+}
+
+#div3{
+    background-color: green;
+}
+
+div{
+    width: 100px;
+    height: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
+}
+
+#div4{
+    background-color:rgba(0,255,0,0.25);
+}
+
+#div5{
+    background-color: rgba(0, 255, 0,0.75);
+    
+}
+
+#div6{
+    background-color:rgba(0, 255, 0,1);
